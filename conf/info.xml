@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon version="0.2">
+    <title xml:lang="ko">회원정보 길드 표시 애드온</title>
+    <description xml:lang="ko">
+        회원정보에 길드 정보를 표시해주는 애드온입니다.
+    </description>
+    <version>1.0.3</version>
+    <date>2020-10-13</date>
+
+    <author email_address="matthew218@naver.com" link="https://shop.hoto.dev">
+        <name xml:lang="ko">Waterticket</name>
+    </author>
+	<extra_vars>
+	</extra_vars>
+</addon>
